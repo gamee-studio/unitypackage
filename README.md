@@ -6,9 +6,10 @@ Project contains:
 - Common Texture
 
 ## Packages
-[LINK DRIVE](https://drive.google.com/drive/folders/1ow0Xk8reZPpk_cOznxXJ9ftdyZQWImYT?usp=sharing)
+Package download below:
+[Link download](https://drive.google.com/drive/folders/1ow0Xk8reZPpk_cOznxXJ9ftdyZQWImYT?usp=sharing)
 
-## Shader
+## Shaders
 ### UIBlur
 [https://github.com/gamee-studio/unitypackage/blob/main/Shader/UIBlur.shader](https://github.com/gamee-studio/unitypackage/blob/main/Shader/UIBlur.shader)
 <details><summary>CLICK TO SEE EXAMPLE</summary>
