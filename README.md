@@ -27,6 +27,16 @@ Project contains:
 </p>
 </details>
 
+### Gold
+
+[https://github.com/gamee-studio/unitypackage/blob/main/Shader/Packages/Golden%20Shader%20Realistic.unitypackage](https://github.com/gamee-studio/unitypackage/blob/main/Shader/Packages/Golden%20Shader%20Realistic.unitypackage)
+<details><summary>CLICK TO SEE EXAMPLE</summary>
+<p>
+	
+![image](https://github.com/gamee-studio/unitypackage/assets/88299194/3f6c172a-4c01-4987-a5a1-ed6c5abadb55)
+
+</p>
+</details>
 
 
 
