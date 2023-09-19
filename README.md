@@ -7,7 +7,7 @@ Project contains:
 
 ## Shader
 ### UIBlur
-[Download](https://github.com/gamee-studio/unitypackage/blob/main/Shader/UIBlur.shader)
+[https://github.com/gamee-studio/unitypackage/blob/main/Shader/UIBlur.shader](https://github.com/gamee-studio/unitypackage/blob/main/Shader/UIBlur.shader)
 <details><summary>CLICK TO SEE EXAMPLE</summary>
 <p>
 	
@@ -15,6 +15,19 @@ Project contains:
 
 </p>
 </details>
+
+### GrayScale
+
+[https://github.com/gamee-studio/unitypackage/blob/main/Shader/GrayScale.shader](https://github.com/gamee-studio/unitypackage/blob/main/Shader/GrayScale.shader)
+<details><summary>CLICK TO SEE EXAMPLE</summary>
+<p>
+	
+![pzZgcrM9cX](https://github.com/gamee-studio/unitypackage/assets/88299194/4686d959-0592-4122-84eb-f7850f174670)
+
+</p>
+</details>
+
+
 
 
 
