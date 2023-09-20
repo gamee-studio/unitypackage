@@ -42,8 +42,15 @@ Package download below:
 </p>
 </details>
 
+# TransparencyWithShadows
 
+<details><summary>CLICK TO SEE EXAMPLE</summary>
+<p>
+	
+![zOiv4a5XHV](https://github.com/gamee-studio/unitypackage/assets/88299194/aaea84ef-daa8-4ba1-aa84-1c808c4f12b2)
 
+</p>
+</details>
 
 ## NOTE
 Shader only support for android
