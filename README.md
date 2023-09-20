@@ -1,9 +1,6 @@
 # Unity Assets
 Project contains:
-- Sounds
-- Shaders
-- Unity packages
-- Common Texture
+- **Shaders and Unity packages**
 
 ## Packages
 Package download below:
@@ -83,6 +80,7 @@ Package download below:
 
 ### Proximity
 
+[https://github.com/gamee-studio/unitypackage/blob/main/Shader/Proximity.shader](https://github.com/gamee-studio/unitypackage/blob/main/Shader/Proximity.shader)
 <details><summary>CLICK TO SEE EXAMPLE</summary>
 <p>
 	
