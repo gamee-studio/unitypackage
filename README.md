@@ -67,14 +67,16 @@ Package download below:
 ### Spencil
 
 
-[https://github.com/gamee-studio/unitypackage/blob/main/Shader/DepthReserve.shader](https://github.com/gamee-studio/unitypackage/blob/main/Shader/DepthReserve.shader)
+[https://github.com/gamee-studio/unitypackage/blob/main/Shader/StencilRead.shader](https://github.com/gamee-studio/unitypackage/blob/main/Shader/StencilRead.shader)
+[https://github.com/gamee-studio/unitypackage/blob/main/Shader/StencilWrite.shader](https://github.com/gamee-studio/unitypackage/blob/main/Shader/StencilWrite.shader)
 
 <details><summary>CLICK TO SEE EXAMPLE</summary>
 <p>
 	
 ![image](https://github.com/gamee-studio/unitypackage/assets/88299194/5d277dd0-dc33-4b8e-b505-270f305b6215)
 ![NmtaGmra51](https://github.com/gamee-studio/unitypackage/assets/88299194/ff96bfe8-2239-4295-96f1-03efeb2a6d3f)
-![Uploading Result.gif…]()
+![Result](https://github.com/gamee-studio/unitypackage/assets/88299194/6cb8435a-39ae-40fd-833e-44e808fbd2d2)
+
 
 
 
