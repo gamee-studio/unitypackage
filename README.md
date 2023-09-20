@@ -3,7 +3,7 @@ Project contains:
 - **Shaders and Unity packages**
 
 ## Packages
-Package download below:
+Package download:
 [Link download](https://drive.google.com/drive/folders/1ow0Xk8reZPpk_cOznxXJ9ftdyZQWImYT?usp=sharing)
 
 ## Shaders
