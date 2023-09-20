@@ -44,6 +44,7 @@ Package download below:
 
 ### TransparencyWithShadows
 
+[https://github.com/gamee-studio/unitypackage/blob/main/Shader/TransparencyWithShadows.shader](https://github.com/gamee-studio/unitypackage/blob/main/Shader/TransparencyWithShadows.shader)
 <details><summary>CLICK TO SEE EXAMPLE</summary>
 <p>
 	
@@ -54,6 +55,7 @@ Package download below:
 
 ### DepthReserve
 
+[https://github.com/gamee-studio/unitypackage/blob/main/Shader/DepthReserve.shader](https://github.com/gamee-studio/unitypackage/blob/main/Shader/DepthReserve.shader)
 <details><summary>CLICK TO SEE EXAMPLE</summary>
 <p>
 	
